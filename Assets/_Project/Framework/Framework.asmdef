@@ -1,7 +1,9 @@
 {
   "name": "ALF.Framework",
   "rootNamespace": "ALF.Framework",
-  "references": [],
+  "references": [
+    "VContainer"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
