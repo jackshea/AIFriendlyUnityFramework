@@ -1,0 +1,23 @@
+{
+  "name": "ALF.Tests.Runtime",
+  "rootNamespace": "ALF.Tests.Runtime",
+  "references": [
+    "ALF.Framework",
+    "ALF.Game.Domain",
+    "ALF.Game.Presentation"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [
+    "Editor"
+  ],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

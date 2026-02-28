@@ -1,0 +1,16 @@
+{
+  "name": "ALF.Game.Domain",
+  "rootNamespace": "ALF.Game.Domain",
+  "references": [
+    "ALF.Framework"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}
